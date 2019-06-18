@@ -1,0 +1,29 @@
+page{
+	background: #E5E5E5;
+}
+.input{
+	background: white;
+	width: 85%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+}
+
+.uni-input{
+	background: white;
+	width: 85%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+	line-height: 100upx;
+}
+
+.buttons{
+	width: 270upx;
+	height: 80upx;
+	line-height: 80upx;
+	font-size: 35upx;
+	background-color: #1296DB;
+	margin-top: 40upx;
+}
+

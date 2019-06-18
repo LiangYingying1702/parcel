@@ -1,0 +1,54 @@
+.circular{
+	border: 20px solid lightblue;
+	border-radius: 50%;
+	display: inline-block;
+	height: 380upx;
+	width: 380upx;
+	margin: 20px 0 0 130upx;
+}
+.list{
+	margin-top: 20upx;
+}
+.num{
+	display: inline-block;
+	font-size: 70upx;
+	color: brown;
+	padding-left: 110upx;
+	padding-top: 20upx;
+}
+.days{
+	display: inline-block;
+	font-size: 40upx;
+	color: brown;
+	padding-left: 20upx;
+}
+.electric{
+	font-size: 35upx;
+	padding-left: 120upx;
+	color: #8F8F94;
+}
+.bar{
+	padding-left: 180upx;
+	color: #8F8F94;
+}
+.nums{
+	display: inline-block;
+	font-size: 70upx;
+	color: brown;
+	padding-left: 110upx;
+	
+}
+.strip{
+	display: inline-block;
+	font-size: 40upx;
+	color: brown;
+	padding-left: 20upx;
+}
+.abnormal{
+	font-size: 35upx;
+	padding-left: 120upx;
+	color: #8F8F94;
+}
+.Statistics{
+	
+}
